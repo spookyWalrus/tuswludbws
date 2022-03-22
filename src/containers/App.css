@@ -1,0 +1,56 @@
+
+@font-face {
+    font-family: 'DeathStar';
+    src: local('DeathStar'),
+      url('DeathStar.ttf') format('truetype'),
+      local('DeathStar'),
+        url('DeathStar.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+/*
+@font-face {
+    font-family: 'wheaton capitals';
+    src: local('wheaton capitals'),
+      url('wheaton capitals.ttf') format('truetype'),
+      local('wheaton capitals'),
+        url('wheaton capitals.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }*/
+  /*@font-face {
+    font-family: 'moonhouse';
+    src: local('moonhouse'), 
+      url('moonhouse.woff2') format('woff2'),
+      local('moonhouse'),
+        url('moonhouse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }*/
+
+
+  h1,h2{
+    font-family: 'DeathStar';
+    font-weight: 500;
+    color: #ffa500;
+    letter-spacing: 1.5px;
+  }
+
+  h3{
+    font-family: 'DeathStar';
+    font-weight: 500;
+    color: #0509C6;
+    letter-spacing: 1.5px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+  li{
+    display: inline;
+    padding: 5px;
+  }
+
