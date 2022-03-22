@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/tuswludbws/static/css/main.046e46a5.css",
+    "main.js": "/tuswludbws/static/js/main.dad817e4.js",
+    "static/media/AT-ST.jpg": "/tuswludbws/static/media/AT-ST.367f5ca4ecf7e3dd4ec2.jpg",
+    "static/media/Sand Crawler.jpg": "/tuswludbws/static/media/Sand Crawler.35337159fe3809da5f4b.jpg",
+    "static/media/AT-AT.jpg": "/tuswludbws/static/media/AT-AT.8e3ef95c1a10080d37bf.jpg",
+    "static/media/Storm IV Twin-Pod cloud car.jpg": "/tuswludbws/static/media/Storm IV Twin-Pod cloud car.539e7fd310f17dc93137.jpg",
+    "static/media/T-16 skyhopper.jpg": "/tuswludbws/static/media/T-16 skyhopper.245f748b6c9e2b388881.jpg",
+    "static/media/TIE-LN starfighter.jpg": "/tuswludbws/static/media/TIE-LN starfighter.f42b17cf543f42b9e7bd.jpg",
+    "static/media/X-34 landspeeder.jpg": "/tuswludbws/static/media/X-34 landspeeder.76df78c2cc1ad9a0381f.jpg",
+    "static/media/Sail barge.jpg": "/tuswludbws/static/media/Sail barge.c6b6bc74db81b140276a.jpg",
+    "static/media/TIE bomber.jpg": "/tuswludbws/static/media/TIE bomber.6984260a153c18b9fc78.jpg",
+    "static/media/Snowspeeder.jpg": "/tuswludbws/static/media/Snowspeeder.1a9d9ebc21f3df08ee39.jpg",
+    "static/media/Snowspeeder_diagram.jpg": "/tuswludbws/static/media/Snowspeeder_diagram.22982be118deeae8f35b.jpg",
+    "static/media/DeathStar.ttf": "/tuswludbws/static/media/DeathStar.4fe76636d2bf8f577a2c.ttf",
+    "static/media/CR90 corvette.jpg": "/tuswludbws/static/media/CR90 corvette.7757a660b0529ee38416.jpg",
+    "static/media/Yavin IV.jpg": "/tuswludbws/static/media/Yavin IV.5cb350c5f37f6d5eb294.jpg",
+    "static/media/TIE Advanced x1.jpg": "/tuswludbws/static/media/TIE Advanced x1.1e902913f252e464d522.jpg",
+    "static/media/Millennium Falcon.jpg": "/tuswludbws/static/media/Millennium Falcon.502799e5ff33f4127570.jpg",
+    "static/media/Alderaan.jpg": "/tuswludbws/static/media/Alderaan.525a2c73605733261f89.jpg",
+    "static/media/Kamino.jpg": "/tuswludbws/static/media/Kamino.d56330c85dd2792d8448.jpg",
+    "static/media/Coruscant.jpg": "/tuswludbws/static/media/Coruscant.8fc15224f38467f97bb4.jpg",
+    "static/media/Naboo.jpg": "/tuswludbws/static/media/Naboo.357f71053be7abc6359f.jpg",
+    "static/media/Death Star.jpg": "/tuswludbws/static/media/Death Star.b29d19ebf6f354786309.jpg",
+    "static/media/X-wing.jpg": "/tuswludbws/static/media/X-wing.1baf825282939d2a3965.jpg",
+    "static/media/Endor.jpg": "/tuswludbws/static/media/Endor.c970a95d7347adcebd38.jpg",
+    "index.html": "/tuswludbws/index.html",
+    "main.046e46a5.css.map": "/tuswludbws/static/css/main.046e46a5.css.map",
+    "main.dad817e4.js.map": "/tuswludbws/static/js/main.dad817e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046e46a5.css",
+    "static/js/main.dad817e4.js"
+  ]
+}
